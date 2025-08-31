@@ -1,4 +1,4 @@
-# Node DDD + CQRS Boilerplate
+# Node.JS/Typescript DDD + CQRS Boilerplate
 
 This is a boilerplate for a Node.js and TypeScript project structured around Domain-Driven Design (DDD) and the CQRS architectural pattern.
 
